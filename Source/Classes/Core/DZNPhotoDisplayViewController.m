@@ -26,7 +26,7 @@ static NSString *kDZNPhotoCellViewIdentifier = @"com.dzn.photoCellViewIdentifier
 static NSString *kDZNSupplementaryViewIdentifier = @"com.dzn.supplementaryViewIdentifier";
 
 static CGFloat kDZNPhotoDisplayMinimumBarHeight = 44.0;
-static NSUInteger kDZNPhotoDisplayMinimumColumnCount = 4.0;
+static NSUInteger kDZNPhotoDisplayMinimumColumnCount = 2.0;
 
 #define DZN_IS_IPHONE UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone
 
